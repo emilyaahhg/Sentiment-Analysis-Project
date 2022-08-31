@@ -42,5 +42,5 @@ python main.py
  Tutorial Video: [Python Sentiment Analysis Project with NLTK and 🤗 Transformers](https://www.youtube.com/watch?v=QpzMWQvxXWk) <br>
  Tutorial Video: [SENTIMENT ANALYSIS USING VADER](https://www.youtube.com/watch?v=Alu_cCXNS-k)<br><br>
  Readings: <br>
- (https://towardsdatascience.com/social-media-sentiment-analysis-in-python-with-vader-no-training-required-4bc6a21e87b8) <br>
- (https://pypi.org/project/googletrans/)
+ [Social Media Sentiment Analysis In Python With VADER](https://towardsdatascience.com/social-media-sentiment-analysis-in-python-with-vader-no-training-required-4bc6a21e87b8) <br>
+ [Pypi: googletrans 3.0.0 package](https://pypi.org/project/googletrans/)
